@@ -1,5 +1,6 @@
-package com.example1;
+package com.tienda;
 
+import com.tienda.*;
 import java.util.Locale;
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;

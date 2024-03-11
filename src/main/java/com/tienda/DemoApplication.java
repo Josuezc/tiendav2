@@ -1,5 +1,6 @@
-package com.example1;
+package com.tienda;
 
+import com.tienda.*;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
